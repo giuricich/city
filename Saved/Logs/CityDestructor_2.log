@@ -4675,3 +4675,910 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.07-22.15.42:414][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
 [2023.07.07-22.16.11:164][791]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
 [2023.07.07-22.16.11:164][791]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.07.07-22.19.22:823][829]LogEditorViewport: Clicking Background
+[2023.07.07-22.22.24:100][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.07.07-22.22.24:105][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/MainWorld" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/MainWorld_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.07.07-22.22.24:218][ 44]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/World/MainWorld_Auto3
+[2023.07.07-22.22.24:218][ 44]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MainWorld_Auto3891B95C94C4DC08825539393CF4D1EC8.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/MainWorld_Auto3.umap'
+[2023.07.07-22.22.24:231][ 44]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/World/MainWorld' took 0.142
+[2023.07.07-22.22.24:231][ 44]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.142
+[2023.07.07-22.22.24:231][ 44]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/World] ([1] browsable assets)...
+[2023.07.07-22.22.24:231][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/World]
+[2023.07.07-22.22.24:231][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/World" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/World_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.07.07-22.22.24:249][ 44]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/World/World_Auto3
+[2023.07.07-22.22.24:249][ 44]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/World_Auto34DA40DBD408968F89A27F7B725FEEBE8.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/World_Auto3.uasset'
+[2023.07.07-22.22.24:250][ 44]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial] ([1] browsable assets)...
+[2023.07.07-22.22.24:251][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial]
+[2023.07.07-22.22.24:252][ 44]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial_Auto3
+[2023.07.07-22.22.24:252][ 44]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MI_MainMaterial_Auto39CA23C7D4DCD1F17D470488538592708.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial_Auto3.uasset'
+[2023.07.07-22.22.24:254][ 44]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial] ([1] browsable assets)...
+[2023.07.07-22.22.24:254][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial]
+[2023.07.07-22.22.24:258][ 44]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial_Auto3
+[2023.07.07-22.22.24:258][ 44]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/M_MainMaterial_Auto3FDC4E910486A130D6EAE33840E82DD50.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial_Auto3.uasset'
+[2023.07.07-22.22.24:260][ 44]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial] ([1] browsable assets)...
+[2023.07.07-22.22.24:260][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial]
+[2023.07.07-22.22.24:262][ 44]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial_Auto3
+[2023.07.07-22.22.24:263][ 44]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MI_MainMaterial_Auto3EFE260DF4E617690915D67A9B3222E00.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial_Auto3.uasset'
+[2023.07.07-22.22.24:264][ 44]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon] ([1] browsable assets)...
+[2023.07.07-22.22.24:264][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon]
+[2023.07.07-22.22.24:266][ 44]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon_Auto3
+[2023.07.07-22.22.24:267][ 44]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/M_Polygon_Auto338AF2E2D48DC9CB77AAEB283FF6C8907.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon_Auto3.uasset'
+[2023.07.07-22.22.24:268][ 44]LogFileHelpers: Auto-saving content packages took 0.037
+[2023.07.07-22.24.10:235][555]LogDerivedDataCache: C:/Users/Xecense/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:54.337 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27887 files in 29906 folders with total size 1386 MiB.
+[2023.07.07-22.24.47:085][734]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.07.07-22.24.47:096][734]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.07.07-22.24.47:107][734]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.07.07-22.24.47:134][735]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.07.07-22.24.52:716][ 68]LogContentBrowser: Attempting asset rename: NewBlueprint -> Town_Spline
+[2023.07.07-22.24.52:728][ 68]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.07.07-22.24.54:111][148]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/World/Town_Spline.Town_Spline
+[2023.07.07-22.24.54:111][148]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.07-22.24.54:112][148]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.24.54:557][148]LogBlueprintEditor: Perf: 0.4 total seconds to load all 8 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2023.07.07-22.24.54:557][148]LogBlueprintEditor: Perf: 0.2 seconds loading: /PCG/BP_Elements/Resources/RenderTargetFunctions
+[2023.07.07-22.24.55:837][148]LogBlueprint: Warning: Blueprint /Game/Assets/M5VFXVOL2/BluePrints/Niagara_BP/Nbuilding_DM_Blueprint is missing GeneratedClass asset tag
+[2023.07.07-22.24.55:875][148]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.07.07-22.24.57:428][220]LogViewport: Scene viewport resized to 382x194, mode Windowed.
+[2023.07.07-22.24.57:932][220]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.07.07-22.25.48:291][215]LogViewport: Scene viewport resized to 1526x685, mode Windowed.
+[2023.07.07-22.25.48:931][243]BlueprintLog: New page: Compile Town_Spline
+[2023.07.07-22.25.49:002][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.07.07-22.25.49:062][243]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.07.07-22.25.50:439][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.25.50:506][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/Town_Spline" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/Town_Spline.uasset" SILENT=true
+[2023.07.07-22.25.50:511][314]LogSavePackage: Moving output files for package: /Game/World/Town_Spline
+[2023.07.07-22.25.50:511][314]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Town_Spline6790A7FC434AFF1368E6B4B76D8B770E.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/Town_Spline.uasset'
+[2023.07.07-22.25.50:526][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 386 ms)
+[2023.07.07-22.25.50:536][314]AssetCheck: New page: Asset Save: Town_Spline
+[2023.07.07-22.25.50:536][314]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/World/Town_Spline.Town_Spline
+[2023.07.07-22.25.51:256][351]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-22.25.51:256][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.26.03:679][ 81]LogPCG: Warning: [PCGVolume_0 - GetSplineData_23]: No matching actor was found
+[2023.07.07-22.26.05:859][201]LogPCG: Warning: [PCGVolume_0 - GetSplineData_23]: No matching actor was found
+[2023.07.07-22.26.08:009][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.26.08:063][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/World" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/World.uasset" SILENT=true
+[2023.07.07-22.26.08:078][320]LogSavePackage: Moving output files for package: /Game/World/World
+[2023.07.07-22.26.08:079][320]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/World6CCC4F914DD0FE8EBB3A72BB8EA4DDAE.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/World.uasset'
+[2023.07.07-22.26.08:092][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 470 ms)
+[2023.07.07-22.26.08:102][320]AssetCheck: New page: Asset Save: World
+[2023.07.07-22.26.08:102][320]LogContentValidation: Display: Validating /Script/PCG.PCGGraph /Game/World/World.World
+[2023.07.07-22.26.14:759][564]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/World/Town_Spline.Town_Spline_C
+[2023.07.07-22.26.14:759][564]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/World/Town_Spline.Town_Spline_C
+[2023.07.07-22.26.14:761][564]LogActorFactory: Actor Factory spawned Blueprint /Game/World/Town_Spline.Town_Spline as actor: Town_Spline_C /Game/World/MainWorld.MainWorld:PersistentLevel.Town_Spline_C_0
+[2023.07.07-22.26.14:764][564]LogActorFactory: Actor Factory spawned Blueprint /Game/World/Town_Spline.Town_Spline as actor: Town_Spline_C /Game/World/MainWorld.MainWorld:PersistentLevel.Town_Spline_C_0
+[2023.07.07-22.26.15:406][600]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/World/Town_Spline.Town_Spline_C
+[2023.07.07-22.26.15:406][600]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/World/Town_Spline.Town_Spline_C
+[2023.07.07-22.26.15:410][600]LogActorFactory: Actor Factory spawned Blueprint /Game/World/Town_Spline.Town_Spline as actor: Town_Spline_C /Game/World/MainWorld.MainWorld:PersistentLevel.Town_Spline_C_1
+[2023.07.07-22.26.15:414][600]LogActorFactory: Actor Factory spawned Blueprint /Game/World/Town_Spline.Town_Spline as actor: Town_Spline_C /Game/World/MainWorld.MainWorld:PersistentLevel.Town_Spline_C_1
+[2023.07.07-22.26.15:444][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.27.07:294][553]LogViewport: Scene viewport resized to 879x869, mode Windowed.
+[2023.07.07-22.27.07:341][555]LogViewport: Scene viewport resized to 924x869, mode Windowed.
+[2023.07.07-22.27.07:394][557]LogViewport: Scene viewport resized to 1009x869, mode Windowed.
+[2023.07.07-22.27.07:444][559]LogViewport: Scene viewport resized to 1033x869, mode Windowed.
+[2023.07.07-22.27.07:506][562]LogViewport: Scene viewport resized to 1042x869, mode Windowed.
+[2023.07.07-22.27.07:552][564]LogViewport: Scene viewport resized to 1063x869, mode Windowed.
+[2023.07.07-22.27.07:593][565]LogViewport: Scene viewport resized to 1089x869, mode Windowed.
+[2023.07.07-22.27.07:729][571]LogViewport: Scene viewport resized to 1104x869, mode Windowed.
+[2023.07.07-22.27.07:794][574]LogViewport: Scene viewport resized to 1105x869, mode Windowed.
+[2023.07.07-22.27.07:849][576]LogViewport: Scene viewport resized to 1132x869, mode Windowed.
+[2023.07.07-22.27.07:885][577]LogViewport: Scene viewport resized to 1146x869, mode Windowed.
+[2023.07.07-22.32.33:547][912]Cmd: TRANSACTION UNDO
+[2023.07.07-22.32.33:547][912]LogEditorTransaction: Undo PCG Editor: Rename Node
+[2023.07.07-22.32.33:627][912]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.33:627][912]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.33:628][912]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.33:628][912]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.33:629][912]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.33:629][912]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.33:630][912]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.33:630][912]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.33:631][912]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.34:063][917]Cmd: TRANSACTION UNDO
+[2023.07.07-22.32.34:063][917]LogEditorTransaction: Undo Create Pin Link
+[2023.07.07-22.32.34:089][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.34:089][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.34:091][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.34:092][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.34:092][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.34:093][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.34:093][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.34:094][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.32.34:094][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.33.18:065][266]LogEditorViewport: Clicking Background
+[2023.07.07-22.34.23:285][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.07.07-22.34.23:295][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/MainWorld" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/MainWorld_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.07.07-22.34.23:426][906]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/World/MainWorld_Auto4
+[2023.07.07-22.34.23:426][906]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MainWorld_Auto40930845D44EAF2C84A943C86C7E9C16C.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/MainWorld_Auto4.umap'
+[2023.07.07-22.34.23:440][906]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/World/MainWorld' took 0.227
+[2023.07.07-22.34.23:440][906]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.227
+[2023.07.07-22.34.23:441][906]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/World] ([1] browsable assets)...
+[2023.07.07-22.34.23:441][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/World]
+[2023.07.07-22.34.23:441][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/World" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/World_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.07.07-22.34.23:466][906]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/World/World_Auto4
+[2023.07.07-22.34.23:466][906]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/World_Auto43A9318B741EBC2C3944C76B8FC3A3733.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/World_Auto4.uasset'
+[2023.07.07-22.34.23:468][906]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial] ([1] browsable assets)...
+[2023.07.07-22.34.23:468][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial]
+[2023.07.07-22.34.23:469][906]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial_Auto4
+[2023.07.07-22.34.23:469][906]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MI_MainMaterial_Auto48A283996493032E1B392F686389DBAB4.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial_Auto4.uasset'
+[2023.07.07-22.34.23:470][906]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial] ([1] browsable assets)...
+[2023.07.07-22.34.23:470][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial]
+[2023.07.07-22.34.23:471][906]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial_Auto4
+[2023.07.07-22.34.23:472][906]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/M_MainMaterial_Auto44AC87257405F0734843F59A754F48BF9.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial_Auto4.uasset'
+[2023.07.07-22.34.23:473][906]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial] ([1] browsable assets)...
+[2023.07.07-22.34.23:473][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial]
+[2023.07.07-22.34.23:474][906]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial_Auto4
+[2023.07.07-22.34.23:474][906]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MI_MainMaterial_Auto47790886C428A183047219C9965B0D87B.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial_Auto4.uasset'
+[2023.07.07-22.34.23:475][906]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon] ([1] browsable assets)...
+[2023.07.07-22.34.23:476][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon]
+[2023.07.07-22.34.23:478][906]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon_Auto4
+[2023.07.07-22.34.23:479][906]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/M_Polygon_Auto4C5D7E3A44581E8BC16BF86ABBC5EC558.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon_Auto4.uasset'
+[2023.07.07-22.34.23:480][906]LogFileHelpers: Auto-saving content packages took 0.041
+[2023.07.07-22.40.57:929][869]Cmd: TRANSACTION UNDO
+[2023.07.07-22.40.57:929][869]LogEditorTransaction: Undo Create Pin Link
+[2023.07.07-22.40.58:633][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.40.58:634][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.40.58:634][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.40.58:635][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.40.58:635][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.40.58:636][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.40.58:636][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.40.58:636][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.40.58:637][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.44.03:803][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.44.03:861][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/World" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/World.uasset" SILENT=true
+[2023.07.07-22.44.03:878][177]LogSavePackage: Moving output files for package: /Game/World/World
+[2023.07.07-22.44.03:879][177]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/World8D02B9234D928FB4DF78A2B4979671B9.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/World.uasset'
+[2023.07.07-22.44.03:890][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 557 ms)
+[2023.07.07-22.44.03:898][177]AssetCheck: New page: Asset Save: World
+[2023.07.07-22.44.03:898][177]LogContentValidation: Display: Validating /Script/PCG.PCGGraph /Game/World/World.World
+[2023.07.07-22.44.06:528][333]LogSlate: Window 'World' being destroyed
+[2023.07.07-22.44.06:539][333]LogSlate: Window 'World' being destroyed
+[2023.07.07-22.44.19:378][131]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/World/Town_Spline.Town_Spline
+[2023.07.07-22.44.19:378][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.07-22.44.19:378][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.44.38:600][261]LogContentBrowser: Attempting asset rename: Village -> Town
+[2023.07.07-22.44.38:675][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.44.38:726][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/Town" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/Town.uasset" SILENT=true
+[2023.07.07-22.44.38:728][261]LogSavePackage: Moving output files for package: /Game/World/Town
+[2023.07.07-22.44.38:728][261]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/TownD05C95414455B379E751F6BAE7318505.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/Town.uasset'
+[2023.07.07-22.44.38:742][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 624 ms)
+[2023.07.07-22.44.38:813][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.07.07-22.44.38:846][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.07.07-22.44.38:871][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.07.07-22.44.38:882][261]AssetCheck: New page: Asset Save: Town
+[2023.07.07-22.44.38:882][261]LogContentValidation: Display: Validating /Script/PCG.PCGGraph /Game/World/Town.Town
+[2023.07.07-22.44.40:673][361]LogActorFactory: Actor Factory attempting to spawn PCGGraph /Game/World/Town.Town
+[2023.07.07-22.44.40:673][361]LogActorFactory: Actor Factory attempting to spawn PCGGraph /Game/World/Town.Town
+[2023.07.07-22.44.40:673][361]LogActorFactory: Actor Factory spawned PCGGraph /Game/World/Town.Town as actor: PCGVolume /Game/World/MainWorld.MainWorld:PersistentLevel.PCGVolume_4
+[2023.07.07-22.44.40:674][361]LogActorFactory: Actor Factory spawned PCGGraph /Game/World/Town.Town as actor: PCGVolume /Game/World/MainWorld.MainWorld:PersistentLevel.PCGVolume_4
+[2023.07.07-22.44.44:446][583]BlueprintLog: New page: Compile Town_Spline
+[2023.07.07-22.44.44:518][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.07.07-22.44.44:553][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.44.45:800][654]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.07.07-22.45.50:892][433]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameLogic/CameraPawn.CameraPawn_C
+[2023.07.07-22.45.50:892][433]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameLogic/CameraPawn.CameraPawn_C
+[2023.07.07-22.45.50:900][433]LogActorFactory: Actor Factory spawned Blueprint /Game/GameLogic/CameraPawn.CameraPawn as actor: CameraPawn_C /Game/World/MainWorld.MainWorld:PersistentLevel.CameraPawn_C_0
+[2023.07.07-22.45.50:903][433]LogActorFactory: Actor Factory spawned Blueprint /Game/GameLogic/CameraPawn.CameraPawn as actor: CameraPawn_C /Game/World/MainWorld.MainWorld:PersistentLevel.CameraPawn_C_0
+[2023.07.07-22.45.51:234][447]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameLogic/CameraPawn.CameraPawn_C
+[2023.07.07-22.45.51:234][447]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameLogic/CameraPawn.CameraPawn_C
+[2023.07.07-22.45.51:240][447]LogActorFactory: Actor Factory spawned Blueprint /Game/GameLogic/CameraPawn.CameraPawn as actor: CameraPawn_C /Game/World/MainWorld.MainWorld:PersistentLevel.CameraPawn_C_1
+[2023.07.07-22.45.51:244][447]LogActorFactory: Actor Factory spawned Blueprint /Game/GameLogic/CameraPawn.CameraPawn as actor: CameraPawn_C /Game/World/MainWorld.MainWorld:PersistentLevel.CameraPawn_C_1
+[2023.07.07-22.45.51:307][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.45.51:340][448]LogViewport: Scene viewport resized to 361x274, mode Windowed.
+[2023.07.07-22.46.02:493][856]LogViewport: Scene viewport resized to 361x274, mode Windowed.
+[2023.07.07-22.46.23:851][522]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.07-22.46.23:958][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-22.46.23:975][522]PIE: New page: PIE session: MainWorld (Jul. 7, 2023, 8:46:23 a.m.)
+[2023.07.07-22.46.24:062][522]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.07.07-22.46.24:062][522]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.07.07-22.46.24:063][522]LogPlayLevel: Creating play world package: /Game/World/UEDPIE_0_MainWorld
+[2023.07.07-22.46.24:121][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057426s)
+[2023.07.07-22.46.24:121][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World/MainWorld.MainWorld to /Game/World/UEDPIE_0_MainWorld.MainWorld (0.057495s)
+[2023.07.07-22.46.24:131][522]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.07-22.46.24:145][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.46.24:145][522]LogAIModule: Creating AISystem for world MainWorld
+[2023.07.07-22.46.24:175][522]LogPlayLevel: PIE: World Init took: (0.053549s)
+[2023.07.07-22.46.24:205][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.07.07-22.46.24:250][522]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.07.07-22.46.24:250][522]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-22.46.24:250][522]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-22.46.24:250][522]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-22.46.24:251][522]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-22.46.24:251][522]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.07-22.46.24:251][522]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.07-22.46.24:251][522]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.07-22.46.24:251][522]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-22.46.24:251][522]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-22.46.24:251][522]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-22.46.24:251][522]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-22.46.24:253][522]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.07-22.46.24:299][522]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Razer Audio Controller - Chat)
+[2023.07.07-22.46.24:299][522]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-22.46.24:300][522]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-22.46.24:300][522]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-22.46.24:300][522]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.07.07-22.46.24:300][522]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.07.07-22.46.24:303][522]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.07.07-22.46.24:303][522]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.07.07-22.46.24:303][522]LogInit: FAudioDevice initialized with ID 2.
+[2023.07.07-22.46.24:303][522]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainWorld'.
+[2023.07.07-22.46.24:303][522]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.07.07-22.46.24:366][522]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.07.07-22.46.24:398][522]LogWorld: Bringing World /Game/World/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2023.07.07-15.46.24
+[2023.07.07-22.46.24:424][522]LogWorld: Bringing up level for play took: 0.051708
+[2023.07.07-22.46.24:439][522]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.07.07-22.46.24:591][522]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2023.07.07-22.46.24:591][522]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.07.07-22.46.24:591][522]PIE: Server logged in
+[2023.07.07-22.46.24:593][522]PIE: Play in editor total start time 0.712 seconds.
+[2023.07.07-22.46.26:315][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.26:316][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.26:317][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.26:317][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.26:317][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.26:318][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.26:318][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.26:318][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.26:320][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.26:320][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.26:321][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.30:925][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.46.30:925][729]LogWorld: BeginTearingDown for /Game/World/UEDPIE_0_MainWorld
+[2023.07.07-22.46.30:926][729]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-22.46.30:932][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.46.30:952][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-22.46.30:960][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.46.30:989][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.46.31:007][729]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.07.07-22.46.31:055][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.07-22.46.31:059][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.07-22.46.31:133][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.07.07-22.46.31:155][729]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.31:155][729]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.31:156][729]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.31:156][729]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.31:157][729]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.31:157][729]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.31:158][729]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.31:158][729]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.31:158][729]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.31:159][729]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.31:187][730]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.07.07-22.46.31:195][730]LogViewport: Scene viewport resized to 361x274, mode Windowed.
+[2023.07.07-22.46.37:683][909]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameLogic/CameraPawn.CameraPawn
+[2023.07.07-22.46.37:683][909]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.07-22.46.37:683][909]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.46.54:024][472]BlueprintLog: New page: Compile CameraPawn
+[2023.07.07-22.46.54:112][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.07.07-22.46.54:159][472]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.46.54:317][474]LogViewport: Scene viewport resized to 361x274, mode Windowed.
+[2023.07.07-22.46.55:021][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.46.55:088][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameLogic/CameraPawn" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/GameLogic/CameraPawn.uasset" SILENT=true
+[2023.07.07-22.46.55:138][497]LogSavePackage: Moving output files for package: /Game/GameLogic/CameraPawn
+[2023.07.07-22.46.55:138][497]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/CameraPawnF2F8C99C4E8DF07216430895B6EFF445.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/GameLogic/CameraPawn.uasset'
+[2023.07.07-22.46.55:152][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 755 ms)
+[2023.07.07-22.46.55:161][497]AssetCheck: New page: Asset Save: CameraPawn
+[2023.07.07-22.46.55:161][497]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameLogic/CameraPawn.CameraPawn
+[2023.07.07-22.46.55:335][505]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-22.46.55:335][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.46.55:389][505]LogViewport: Scene viewport resized to 1141x709, mode Windowed.
+[2023.07.07-22.46.55:452][506]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.07.07-22.46.55:553][507]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.07.07-22.46.58:455][595]LogViewport: Scene viewport resized to 1139x703, mode Windowed.
+[2023.07.07-22.46.58:517][597]LogViewport: Scene viewport resized to 575x300, mode Windowed.
+[2023.07.07-22.46.58:544][598]LogViewport: Scene viewport resized to 467x221, mode Windowed.
+[2023.07.07-22.46.59:015][640]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.07.07-22.46.59:424][672]LogSlate: Window 'Town_Spline' being destroyed
+[2023.07.07-22.46.59:435][672]LogViewport: Scene viewport resized to 1141x726, mode Windowed.
+[2023.07.07-22.46.59:461][673]LogViewport: Scene viewport resized to 1141x718, mode Windowed.
+[2023.07.07-22.46.59:480][674]LogViewport: Scene viewport resized to 1141x713, mode Windowed.
+[2023.07.07-22.46.59:499][675]LogViewport: Scene viewport resized to 1141x707, mode Windowed.
+[2023.07.07-22.46.59:516][676]LogViewport: Scene viewport resized to 1141x701, mode Windowed.
+[2023.07.07-22.46.59:540][677]LogViewport: Scene viewport resized to 1141x694, mode Windowed.
+[2023.07.07-22.46.59:556][678]LogViewport: Scene viewport resized to 1141x689, mode Windowed.
+[2023.07.07-22.46.59:575][679]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.07.07-22.47.02:494][804]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.07-22.47.02:503][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-22.47.02:503][804]PIE: New page: PIE session: MainWorld (Jul. 7, 2023, 8:47:02 a.m.)
+[2023.07.07-22.47.02:503][804]LogPlayLevel: Creating play world package: /Game/World/UEDPIE_0_MainWorld
+[2023.07.07-22.47.02:538][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035769s)
+[2023.07.07-22.47.02:538][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World/MainWorld.MainWorld to /Game/World/UEDPIE_0_MainWorld.MainWorld (0.035822s)
+[2023.07.07-22.47.02:538][804]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.07-22.47.02:538][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.47.02:539][804]LogAIModule: Creating AISystem for world MainWorld
+[2023.07.07-22.47.02:539][804]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2023.07.07-22.47.02:568][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.07.07-22.47.02:573][804]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.07.07-22.47.02:573][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-22.47.02:573][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-22.47.02:573][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-22.47.02:573][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-22.47.02:573][804]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.07-22.47.02:573][804]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.07-22.47.02:573][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.07-22.47.02:573][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-22.47.02:573][804]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-22.47.02:573][804]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-22.47.02:573][804]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-22.47.02:575][804]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.07-22.47.02:617][804]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Razer Audio Controller - Chat)
+[2023.07.07-22.47.02:618][804]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-22.47.02:618][804]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-22.47.02:618][804]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-22.47.02:618][804]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.07.07-22.47.02:618][804]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.07.07-22.47.02:621][804]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.07.07-22.47.02:621][804]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.07.07-22.47.02:621][804]LogInit: FAudioDevice initialized with ID 3.
+[2023.07.07-22.47.02:621][804]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainWorld'.
+[2023.07.07-22.47.02:621][804]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.07.07-22.47.02:625][804]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.07.07-22.47.02:653][804]LogWorld: Bringing World /Game/World/UEDPIE_0_MainWorld.MainWorld up for play (max tick rate 0) at 2023.07.07-15.47.02
+[2023.07.07-22.47.02:653][804]LogWorld: Bringing up level for play took: 0.027648
+[2023.07.07-22.47.02:656][804]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.07.07-22.47.02:657][804]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2023.07.07-22.47.02:657][804]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.07.07-22.47.02:657][804]PIE: Server logged in
+[2023.07.07-22.47.02:659][804]PIE: Play in editor total start time 0.156 seconds.
+[2023.07.07-22.47.02:984][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.02:984][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.02:985][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.02:986][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.02:986][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.02:987][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.02:987][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.02:987][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.02:988][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.02:988][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.02:989][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.13:357][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.47.13:357][276]LogWorld: BeginTearingDown for /Game/World/UEDPIE_0_MainWorld
+[2023.07.07-22.47.13:357][276]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-22.47.13:362][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.47.13:365][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-22.47.13:374][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.47.13:410][276]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-22.47.13:410][276]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.07.07-22.47.13:410][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.07.07-22.47.13:417][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.07.07-22.47.13:423][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.47.13:444][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2023.07.07-22.47.13:475][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.13:476][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.13:476][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.13:478][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.13:478][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.13:479][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.13:479][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.13:480][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.13:480][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.13:481][276]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.47.13:496][277]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.07.07-22.47.13:504][277]LogViewport: Scene viewport resized to 361x274, mode Windowed.
+[2023.07.07-22.48.02:042][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.07.07-22.48.02:045][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/MainWorld" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/MainWorld_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.07.07-22.48.02:142][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/World/MainWorld_Auto5
+[2023.07.07-22.48.02:142][771]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MainWorld_Auto527639A5F417BFCB29177C084A7F0BDBB.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/MainWorld_Auto5.umap'
+[2023.07.07-22.48.02:153][771]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/World/MainWorld' took 0.139
+[2023.07.07-22.48.02:153][771]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.139
+[2023.07.07-22.48.02:153][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial] ([1] browsable assets)...
+[2023.07.07-22.48.02:153][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial]
+[2023.07.07-22.48.02:155][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial_Auto5
+[2023.07.07-22.48.02:155][771]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MI_MainMaterial_Auto50A15286E4DCD0E0A0F43B28CA3D7BB23.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial_Auto5.uasset'
+[2023.07.07-22.48.02:156][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial] ([1] browsable assets)...
+[2023.07.07-22.48.02:156][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial]
+[2023.07.07-22.48.02:157][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial_Auto5
+[2023.07.07-22.48.02:157][771]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/M_MainMaterial_Auto5827D1D404EED4023B46D958E9CD5DE37.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial_Auto5.uasset'
+[2023.07.07-22.48.02:158][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial] ([1] browsable assets)...
+[2023.07.07-22.48.02:158][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial]
+[2023.07.07-22.48.02:159][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial_Auto5
+[2023.07.07-22.48.02:159][771]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MI_MainMaterial_Auto527AE23FE4F8D392E77DFDF8DBA7BE4EC.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial_Auto5.uasset'
+[2023.07.07-22.48.02:160][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon] ([1] browsable assets)...
+[2023.07.07-22.48.02:160][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon]
+[2023.07.07-22.48.02:162][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon_Auto5
+[2023.07.07-22.48.02:162][771]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/M_Polygon_Auto58B03140F4DFF24E9C465A2A1D3774334.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon_Auto5.uasset'
+[2023.07.07-22.48.02:162][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/Town_Spline] ([2] browsable assets)...
+[2023.07.07-22.48.02:162][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/Town_Spline]
+[2023.07.07-22.48.02:162][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/Town_Spline" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/Town_Spline_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.07.07-22.48.02:167][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/World/Town_Spline_Auto5
+[2023.07.07-22.48.02:167][771]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Town_Spline_Auto572A5983C4D19E6FAAFA137A3BFA298F4.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/Town_Spline_Auto5.uasset'
+[2023.07.07-22.48.02:168][771]LogFileHelpers: Auto-saving content packages took 0.014
+[2023.07.07-22.48.09:065][193]LogShaderCompilers: Display: ================================================
+[2023.07.07-22.48.09:065][193]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Total job queries 147, among them cache hits 20 (13.61%)
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Tracking 127 distinct input hashes that result in 99 distinct outputs (77.95%)
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: RAM used: 3.08 MiB of 1.60 GiB budget. Usage: 0.19%
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Shaders Compiled: 121
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Jobs assigned 121, completed 121 (100.00%)
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Average time worker was idle: 264.10 s
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Time job spent in pending queue: average 0.41 s, longest 4.09 s
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Job execution time: average 4.45 s, max 6.49 s
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Job life time (pending + execution): average 4.86 s, max 6.51
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.36 s
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Jobs were issued in 49 batches (only local compilation was used), average 2.47 jobs/batch
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Average processing rate: 5.66 jobs/sec
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Total thread time: 118.236 s
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Total thread preprocess time: 4.987 s
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Percentage time preprocessing: 4.22%
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Effective parallelization: 5.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display:                                               FHWRasterizeMS (compiled    1 times, average 3.41 sec, max 3.41 sec, min 3.41 sec)
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 3.28 sec, max 4.21 sec, min 2.35 sec)
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display:                                               FHWRasterizeVS (compiled    1 times, average 3.17 sec, max 3.17 sec, min 3.17 sec)
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    2 times, average 2.91 sec, max 4.05 sec, min 1.77 sec)
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.94 sec, max 5.69 sec, min 0.60 sec)
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.15% of total time (compiled    8 times, average 1.94 sec, max 5.69 sec, min 0.60 sec)
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.78% of total time (compiled    6 times, average 1.14 sec, max 1.91 sec, min 0.66 sec)
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 5.55% of total time (compiled    2 times, average 3.28 sec, max 4.21 sec, min 2.35 sec)
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 4.92% of total time (compiled    2 times, average 2.91 sec, max 4.05 sec, min 1.77 sec)
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.26% of total time (compiled    5 times, average 0.77 sec, max 0.91 sec, min 0.66 sec)
+[2023.07.07-22.48.09:066][193]LogShaderCompilers: Display: ================================================
+[2023.07.07-22.48.19:929][898]Cmd: TRANSACTION UNDO
+[2023.07.07-22.48.19:929][898]LogEditorTransaction: Undo Edit Global DistanceField View Distance
+[2023.07.07-22.48.19:998][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.48.19:999][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.48.19:999][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.48.20:000][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.48.20:000][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.48.20:000][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.48.20:001][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.48.20:001][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.48.20:001][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.48.20:002][898]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.48.36:672][851]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.07.07-22.48.36:673][851]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.07.07-22.48.36:921][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.49.22:304][996]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.07-22.49.33:985][916]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.07-22.49.54:601][114]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2023.07.07-22.49.55:391][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.07-22.49.56:608][259]LogMetaData: Removing '/Game/World/BuildingParentClass.BuildingParentClass:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BuildingParentClass.PackageMetaData'
+[2023.07.07-22.49.56:620][259]LogMetaData: Removing '/Game/World/BuildingParentClass.BuildingParentClass_C' ref from Metadata '/Game/BuildingParentClass.PackageMetaData'
+[2023.07.07-22.49.56:620][259]LogMetaData: Removing '/Game/World/BuildingParentClass.BuildingParentClass:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BuildingParentClass.PackageMetaData'
+[2023.07.07-22.49.56:620][259]LogMetaData: Removing '/Game/World/BuildingParentClass.BuildingParentClass:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BuildingParentClass.PackageMetaData'
+[2023.07.07-22.49.56:620][259]LogMetaData: Removing '/Game/World/BuildingParentClass.BuildingParentClass:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BuildingParentClass.PackageMetaData'
+[2023.07.07-22.49.56:620][259]LogMetaData: Removing '/Game/World/BuildingParentClass.SKEL_BuildingParentClass_C:ReceiveBeginPlay' ref from Metadata '/Game/BuildingParentClass.PackageMetaData'
+[2023.07.07-22.49.56:620][259]LogMetaData: Removing '/Game/World/BuildingParentClass.SKEL_BuildingParentClass_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BuildingParentClass.PackageMetaData'
+[2023.07.07-22.49.56:620][259]LogMetaData: Removing '/Game/World/BuildingParentClass.SKEL_BuildingParentClass_C:ReceiveTick' ref from Metadata '/Game/BuildingParentClass.PackageMetaData'
+[2023.07.07-22.49.56:620][259]LogMetaData: Removing '/Game/World/BuildingParentClass.SKEL_BuildingParentClass_C:UserConstructionScript' ref from Metadata '/Game/BuildingParentClass.PackageMetaData'
+[2023.07.07-22.49.56:620][259]LogMetaData: Removing '/Game/World/BuildingParentClass.SKEL_BuildingParentClass_C' ref from Metadata '/Game/BuildingParentClass.PackageMetaData'
+[2023.07.07-22.49.56:626][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.49.56:661][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BuildingParentClass" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/BuildingParentClass.uasset" SILENT=true
+[2023.07.07-22.49.56:664][259]LogSavePackage: Moving output files for package: /Game/World/BuildingParentClass
+[2023.07.07-22.49.56:664][259]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/BuildingParentClass6BF11CB84087EDEDD06604B95EE1B1D5.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/BuildingParentClass.uasset'
+[2023.07.07-22.49.56:679][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 808 ms)
+[2023.07.07-22.49.56:716][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.07.07-22.49.56:745][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.07.07-22.49.56:771][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.07.07-22.49.56:793][259]AssetCheck: New page: Asset Save: BuildingParentClass
+[2023.07.07-22.49.56:793][259]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/World/BuildingParentClass.BuildingParentClass
+[2023.07.07-22.50.02:760][830]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.07-22.50.02:830][830]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.07-22.50.02:842][831]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.07-22.50.05:257][990]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.07.07-22.50.05:258][990]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.07-22.50.18:008][684]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/World/BuildingParentClass.BuildingParentClass
+[2023.07.07-22.50.18:009][684]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.07-22.50.18:009][684]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.50.19:884][877]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.07.07-22.50.35:562][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.07.07-22.50.35:609][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.07.07-22.50.38:811][361]LogSlate: Window 'Save Content' being destroyed
+[2023.07.07-22.50.51:212][120]LogAssetEditorSubsystem: Opening Asset editor for PCGGraph /Game/World/Town.Town
+[2023.07.07-22.50.51:224][120]LogToolMenus: Warning: Menu already registered : AssetEditor.PCGEditor.ToolBar
+[2023.07.07-22.51.00:943][248]LogPCG: Warning: [Town_Spline_C_1 - GetSplineData_0]: No matching actor was found
+[2023.07.07-22.51.23:667][705]LogViewport: Scene viewport resized to 1141x715, mode Windowed.
+[2023.07.07-22.51.23:701][706]LogViewport: Scene viewport resized to 1141x706, mode Windowed.
+[2023.07.07-22.51.23:755][707]LogViewport: Scene viewport resized to 1141x688, mode Windowed.
+[2023.07.07-22.51.23:814][708]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.07.07-22.52.49:611][724]LogSlate: Window 'Interior Density Falloff Curve - Internal Curve Editor' being destroyed
+[2023.07.07-22.54.36:354][226]LogSlate: Window 'Interior Density Falloff Curve - Internal Curve Editor' being destroyed
+[2023.07.07-22.55.06:793][173]LogPCG: Error: [Town_Spline_C_1 - SpawnActor_5]: Invalid template actor class 'None'
+[2023.07.07-22.55.09:525][320]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/M5VFXVOL2/BluePrints/Niagara_BP/Nbuilding_DM_Blueprint.Nbuilding_DM_Blueprint is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2023.07.07-22.55.15:791][784]LogMaterial: Display: Material /Game/Assets/Polygon-ForestVillage/Materials/M_Emission.M_Emission needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2023.07.07-22.55.17:091][833]LogShaderCompilers: Display: ================================================
+[2023.07.07-22.55.17:091][833]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.07-22.55.17:091][833]LogShaderCompilers: Display: Total job queries 183, among them cache hits 20 (10.93%)
+[2023.07.07-22.55.17:091][833]LogShaderCompilers: Display: Tracking 132 distinct input hashes that result in 104 distinct outputs (78.79%)
+[2023.07.07-22.55.17:091][833]LogShaderCompilers: Display: RAM used: 3.18 MiB of 1.60 GiB budget. Usage: 0.19%
+[2023.07.07-22.55.17:091][833]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.07-22.55.17:091][833]LogShaderCompilers: Display: Shaders Compiled: 126
+[2023.07.07-22.55.17:091][833]LogShaderCompilers: Display: Jobs assigned 152, completed 126 (82.89%)
+[2023.07.07-22.55.17:091][833]LogShaderCompilers: Display: Average time worker was idle: 535.18 s
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display: Time job spent in pending queue: average 0.35 s, longest 4.09 s
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display: Job execution time: average 4.31 s, max 6.49 s
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display: Job life time (pending + execution): average 4.70 s, max 6.51
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.48 s
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display: Jobs were issued in 62 batches (only local compilation was used), average 2.45 jobs/batch
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display: Average processing rate: 5.37 jobs/sec
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display: Total thread time: 121.171 s
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display: Total thread preprocess time: 5.154 s
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display: Percentage time preprocessing: 4.25%
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display: Effective parallelization: 5.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display:                                               FHWRasterizeMS (compiled    1 times, average 3.41 sec, max 3.41 sec, min 3.41 sec)
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 3.28 sec, max 4.21 sec, min 2.35 sec)
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display:                                               FHWRasterizeVS (compiled    1 times, average 3.17 sec, max 3.17 sec, min 3.17 sec)
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    2 times, average 2.91 sec, max 4.05 sec, min 1.77 sec)
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display:                                               FHWRasterizePS (compiled    2 times, average 1.86 sec, max 1.99 sec, min 1.73 sec)
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.36% of total time (compiled    9 times, average 1.80 sec, max 5.69 sec, min 0.60 sec)
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.64% of total time (compiled    6 times, average 1.14 sec, max 1.91 sec, min 0.66 sec)
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 5.41% of total time (compiled    2 times, average 3.28 sec, max 4.21 sec, min 2.35 sec)
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 4.80% of total time (compiled    2 times, average 2.91 sec, max 4.05 sec, min 1.77 sec)
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.35% of total time (compiled    7 times, average 0.75 sec, max 0.91 sec, min 0.57 sec)
+[2023.07.07-22.55.17:092][833]LogShaderCompilers: Display: ================================================
+[2023.07.07-22.55.54:105][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.55.54:149][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/BuildingParentClass" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/BuildingParentClass.uasset" SILENT=true
+[2023.07.07-22.55.54:152][931]LogSavePackage: Moving output files for package: /Game/World/BuildingParentClass
+[2023.07.07-22.55.54:153][931]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/BuildingParentClass99D1C5D643D671CB788AA48F0074A938.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/BuildingParentClass.uasset'
+[2023.07.07-22.55.54:165][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 868 ms)
+[2023.07.07-22.55.54:175][931]AssetCheck: New page: Asset Save: BuildingParentClass
+[2023.07.07-22.55.54:175][931]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/World/BuildingParentClass.BuildingParentClass
+[2023.07.07-22.55.54:609][960]BlueprintLog: New page: Compile BuildingParentClass
+[2023.07.07-22.55.54:657][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.07.07-22.56.44:000][850]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_14_B.SM_Hous_14_B
+[2023.07.07-22.56.44:000][850]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_14_B.SM_Hous_14_B
+[2023.07.07-22.56.44:001][850]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_14_B.SM_Hous_14_B as actor: StaticMeshActor /Game/World/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_2
+[2023.07.07-22.56.44:090][850]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.56.55:502][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_14_B.SM_Hous_14_B
+[2023.07.07-22.56.55:502][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_14_B.SM_Hous_14_B
+[2023.07.07-22.56.55:502][439]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_14_B.SM_Hous_14_B as actor: StaticMeshActor /Game/World/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_3
+[2023.07.07-22.56.55:555][439]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.56.56:286][466]LogMaterial: Display: Material /Game/Assets/Polygon_FantasyVillage/Materials/M_Emission.M_Emission needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2023.07.07-22.57.58:113][682]LogAssetEditorSubsystem: Opening Asset editor for PCGGraph /Game/World/World.World
+[2023.07.07-22.57.58:128][682]LogToolMenus: Warning: Menu already registered : AssetEditor.PCGEditor.ToolBar
+[2023.07.07-22.57.59:927][817]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.07.07-22.57.59:960][818]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.07.07-22.58.35:303][847]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Tree_01_A.SM_Tree_01_A
+[2023.07.07-22.58.35:304][847]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Tree_01_A.SM_Tree_01_A
+[2023.07.07-22.58.35:304][847]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Tree_01_A.SM_Tree_01_A as actor: StaticMeshActor /Game/World/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_4
+[2023.07.07-22.58.35:314][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.58.55:774][102]Cmd: TRANSACTION UNDO
+[2023.07.07-22.58.55:774][102]LogEditorTransaction: Undo PCG Editor: Rename Node
+[2023.07.07-22.58.55:837][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.58.55:837][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.58.55:837][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.58.55:838][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.58.55:838][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.58.55:838][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.58.55:839][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.58.55:839][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.58.55:839][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.58.55:839][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-22.58.55:840][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:033][854]Cmd: TRANSACTION UNDO
+[2023.07.07-23.03.45:033][854]LogEditorTransaction: Undo Create Pin Link
+[2023.07.07-23.03.45:087][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:087][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:088][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:088][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:088][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:089][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:089][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:089][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:090][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:090][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:090][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:304][861]Cmd: TRANSACTION UNDO
+[2023.07.07-23.03.45:304][861]LogEditorTransaction: Undo Create Pin Link
+[2023.07.07-23.03.45:344][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:344][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:345][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:345][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:346][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:346][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:346][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:346][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:347][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:347][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:347][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:577][867]Cmd: TRANSACTION UNDO
+[2023.07.07-23.03.45:577][867]LogEditorTransaction: Undo Move Node
+[2023.07.07-23.03.45:592][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:593][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:595][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:595][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:595][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:595][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:596][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:596][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:597][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:597][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:597][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:908][885]Cmd: TRANSACTION UNDO
+[2023.07.07-23.03.45:908][885]LogEditorTransaction: Undo Break Single Pin Link
+[2023.07.07-23.03.45:925][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:925][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:926][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:926][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:926][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:926][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:927][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:928][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:928][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:928][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.45:929][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:208][900]Cmd: TRANSACTION UNDO
+[2023.07.07-23.03.46:208][900]LogEditorTransaction: Undo Create Pin Link
+[2023.07.07-23.03.46:223][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:223][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:223][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:223][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:224][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:224][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:224][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:225][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:225][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:226][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:226][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:517][916]Cmd: TRANSACTION UNDO
+[2023.07.07-23.03.46:517][916]LogEditorTransaction: Undo Move Node
+[2023.07.07-23.03.46:531][916]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:531][916]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:532][916]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:532][916]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:533][916]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:533][916]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:533][916]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:533][916]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:534][916]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:534][916]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:534][916]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:878][935]Cmd: TRANSACTION UNDO
+[2023.07.07-23.03.46:878][935]LogEditorTransaction: Undo Break Single Pin Link
+[2023.07.07-23.03.46:892][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:892][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:893][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:893][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:893][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:894][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:894][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:894][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:895][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:895][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.46:895][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.47:242][954]Cmd: TRANSACTION UNDO
+[2023.07.07-23.03.47:242][954]LogEditorTransaction: Undo Move Node
+[2023.07.07-23.03.47:257][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.47:257][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.47:258][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.47:258][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.47:259][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.47:259][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.47:260][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.47:260][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.47:260][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.47:261][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.03.47:261][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.08.03:203][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.07.07-23.08.03:208][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/MainWorld" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/MainWorld_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.07.07-23.08.03:307][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/World/MainWorld_Auto6
+[2023.07.07-23.08.03:308][276]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MainWorld_Auto60E63E98B48000EA760608FA7C1A93C1C.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/MainWorld_Auto6.umap'
+[2023.07.07-23.08.03:315][276]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/World/MainWorld' took 0.141
+[2023.07.07-23.08.03:315][276]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.141
+[2023.07.07-23.08.03:317][276]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/World] ([1] browsable assets)...
+[2023.07.07-23.08.03:317][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/World]
+[2023.07.07-23.08.03:317][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/World" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/World_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2023.07.07-23.08.03:336][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/World/World_Auto6
+[2023.07.07-23.08.03:336][276]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/World_Auto6F195BC82408EB4187C095F99FAC12401.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/World_Auto6.uasset'
+[2023.07.07-23.08.03:337][276]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/Town] ([1] browsable assets)...
+[2023.07.07-23.08.03:337][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/Town]
+[2023.07.07-23.08.03:337][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/Town" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/Town_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2023.07.07-23.08.03:350][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/World/Town_Auto6
+[2023.07.07-23.08.03:350][276]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Town_Auto6EE0C474B40230FA721E49BB8853AEACB.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/Town_Auto6.uasset'
+[2023.07.07-23.08.03:351][276]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial] ([1] browsable assets)...
+[2023.07.07-23.08.03:351][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial]
+[2023.07.07-23.08.03:352][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial_Auto6
+[2023.07.07-23.08.03:353][276]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MI_MainMaterial_Auto629762AA0495EDF0D3C23559CF5B3C7CF.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial_Auto6.uasset'
+[2023.07.07-23.08.03:354][276]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial] ([1] browsable assets)...
+[2023.07.07-23.08.03:354][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial]
+[2023.07.07-23.08.03:355][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial_Auto6
+[2023.07.07-23.08.03:355][276]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/M_MainMaterial_Auto62B5F50EA4BC25045A776729883F97B28.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial_Auto6.uasset'
+[2023.07.07-23.08.03:355][276]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial] ([1] browsable assets)...
+[2023.07.07-23.08.03:355][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial]
+[2023.07.07-23.08.03:358][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial_Auto6
+[2023.07.07-23.08.03:358][276]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MI_MainMaterial_Auto685A944D242A41D80CB94A597E1DFB643.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial_Auto6.uasset'
+[2023.07.07-23.08.03:359][276]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon] ([1] browsable assets)...
+[2023.07.07-23.08.03:359][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon]
+[2023.07.07-23.08.03:361][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon_Auto6
+[2023.07.07-23.08.03:362][276]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/M_Polygon_Auto6151731294EFB3344354E0EAAD4B1893E.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/M_Polygon_Auto6.uasset'
+[2023.07.07-23.08.03:363][276]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/World/Town_Spline] ([2] browsable assets)...
+[2023.07.07-23.08.03:363][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/World/Town_Spline]
+[2023.07.07-23.08.03:363][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/Town_Spline" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/Town_Spline_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2023.07.07-23.08.03:368][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/World/Town_Spline_Auto6
+[2023.07.07-23.08.03:368][276]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Town_Spline_Auto6F0E978504564694AA9F44BA1095A0889.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/World/Town_Spline_Auto6.uasset'
+[2023.07.07-23.08.03:369][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Polygon-ForestVillage/Materials/MI_Emission_03] ([1] browsable assets)...
+[2023.07.07-23.08.03:411][276]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/Polygon-ForestVillage/Materials/MI_Emission_03.MI_Emission_03]
+[2023.07.07-23.08.03:411][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon-ForestVillage/Materials/MI_Emission_03]
+[2023.07.07-23.08.03:415][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/MI_Emission_03_Auto6
+[2023.07.07-23.08.03:415][276]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MI_Emission_03_Auto65344188C491425D5B89A1AA33103F30B.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/MI_Emission_03_Auto6.uasset'
+[2023.07.07-23.08.03:416][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Polygon-ForestVillage/Materials/M_Emission] ([1] browsable assets)...
+[2023.07.07-23.08.03:426][276]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Polygon-ForestVillage/Materials/M_Emission.M_Emission]
+[2023.07.07-23.08.03:426][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon-ForestVillage/Materials/M_Emission]
+[2023.07.07-23.08.03:428][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/M_Emission_Auto6
+[2023.07.07-23.08.03:428][276]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/M_Emission_Auto63378A9A24C6DA49FA924D5957241E935.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon-ForestVillage/Materials/M_Emission_Auto6.uasset'
+[2023.07.07-23.08.03:429][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Polygon_FantasyVillage/Materials/MI_Emission_Blue] ([1] browsable assets)...
+[2023.07.07-23.08.03:439][276]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/Polygon_FantasyVillage/Materials/MI_Emission_Blue.MI_Emission_Blue]
+[2023.07.07-23.08.03:439][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon_FantasyVillage/Materials/MI_Emission_Blue]
+[2023.07.07-23.08.03:441][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/MI_Emission_Blue_Auto6
+[2023.07.07-23.08.03:441][276]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MI_Emission_Blue_Auto60694255D4C906C8D18AC92BA27FAB7F0.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/MI_Emission_Blue_Auto6.uasset'
+[2023.07.07-23.08.03:442][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Polygon_FantasyVillage/Materials/M_Emission] ([1] browsable assets)...
+[2023.07.07-23.08.03:452][276]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Polygon_FantasyVillage/Materials/M_Emission.M_Emission]
+[2023.07.07-23.08.03:452][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Polygon_FantasyVillage/Materials/M_Emission]
+[2023.07.07-23.08.03:455][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/M_Emission_Auto6
+[2023.07.07-23.08.03:455][276]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/M_Emission_Auto666A5D35A4A0EFC9DF30E4F85CE69742D.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Autosaves/Game/Assets/Polygon_FantasyVillage/Materials/M_Emission_Auto6.uasset'
+[2023.07.07-23.08.03:455][276]LogFileHelpers: Auto-saving content packages took 0.140
+[2023.07.07-23.15.35:031][509]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/Epic games/UE_5.2/Engine/Plugins/Experimental/PCG/Source/PCG/Public/Elements/PCGBoundsModifier.h'.
+[2023.07.07-23.16.41:500][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-23.16.41:561][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/Town" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/Town.uasset" SILENT=true
+[2023.07.07-23.16.41:572][930]LogSavePackage: Moving output files for package: /Game/World/Town
+[2023.07.07-23.16.41:573][930]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/TownCC22A57C41651973DB1696B9ED95AE2F.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/Town.uasset'
+[2023.07.07-23.16.41:586][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 954 ms)
+[2023.07.07-23.16.41:600][930]AssetCheck: New page: Asset Save: Town
+[2023.07.07-23.16.41:600][930]LogContentValidation: Display: Validating /Script/PCG.PCGGraph /Game/World/Town.Town
+[2023.07.07-23.16.42:008][954]Cmd: TRANSACTION UNDO
+[2023.07.07-23.16.42:008][954]LogEditorTransaction: Undo PCG Editor: Rename Node
+[2023.07.07-23.16.42:079][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.16.42:079][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.16.42:080][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.16.42:081][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.16.42:082][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.16.42:082][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.16.42:082][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.16.42:083][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.16.42:083][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.16.42:083][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.16.42:083][954]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.18.30:233][491]LogSlate: Window 'Interior Density Falloff Curve - Internal Curve Editor' being destroyed
+[2023.07.07-23.19.00:672][120]LogSlate: Window 'Interior Density Falloff Curve - Internal Curve Editor' being destroyed
+[2023.07.07-23.21.25:892][994]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_22_B.SM_Hous_22_B
+[2023.07.07-23.21.25:892][994]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_22_B.SM_Hous_22_B
+[2023.07.07-23.21.25:893][994]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_22_B.SM_Hous_22_B as actor: StaticMeshActor /Game/World/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_5
+[2023.07.07-23.21.25:904][994]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.21.40:132][699]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_23_A.SM_Hous_23_A
+[2023.07.07-23.21.40:132][699]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_23_A.SM_Hous_23_A
+[2023.07.07-23.21.40:132][699]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_23_A.SM_Hous_23_A as actor: StaticMeshActor /Game/World/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_6
+[2023.07.07-23.21.40:304][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.06:983][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_20_B.SM_Hous_20_B
+[2023.07.07-23.22.06:983][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_20_B.SM_Hous_20_B
+[2023.07.07-23.22.06:984][ 12]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_20_B.SM_Hous_20_B as actor: StaticMeshActor /Game/World/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_7
+[2023.07.07-23.22.07:001][ 12]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_20_B) ...
+[2023.07.07-23.22.07:014][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.07:751][ 44]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_20_B.SM_Hous_20_B
+[2023.07.07-23.22.07:751][ 44]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_20_B.SM_Hous_20_B
+[2023.07.07-23.22.07:753][ 44]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_20_B.SM_Hous_20_B as actor: StaticMeshActor /Game/World/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_8
+[2023.07.07-23.22.07:811][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.07:818][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.18:883][593]Cmd: TRANSACTION UNDO
+[2023.07.07-23.22.18:884][593]LogEditorTransaction: Undo Move Elements
+[2023.07.07-23.22.18:943][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.18:943][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.18:944][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.18:944][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.18:944][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.18:945][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.18:945][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.18:945][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.18:946][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.18:946][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.18:949][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.20:318][652]Cmd: DELETE
+[2023.07.07-23.22.20:318][652]Cmd: ACTOR DELETE
+[2023.07.07-23.22.20:656][652]LogTexture: Display: Building textures: /Temp/Autosaves/Game/World/MainWorld_Auto2.MainWorld_Auto2:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.07.07-23.22.20:656][652]LogTexture: Display: Building textures: /Temp/Autosaves/Game/World/MainWorld_Auto2.MainWorld_Auto2:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 256x512 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.07.07-23.22.20:657][652]LogTexture: Display: Building textures: /Temp/Autosaves/Game/World/MainWorld_Auto2.MainWorld_Auto2:PersistentLevel.Landscape_0.Heightmap_3 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 2.062492 MB), EncodeSpeed: Fast
+[2023.07.07-23.22.20:657][652]LogTexture: Display: Building textures: /Temp/Autosaves/Game/World/MainWorld_Auto2.MainWorld_Auto2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.07.07-23.22.20:663][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.07-23.22.20:706][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.07-23.22.20:745][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.07-23.22.20:783][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.07-23.22.20:844][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.07-23.22.20:900][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.07-23.22.20:933][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.07.07-23.22.20:936][652]LogEditorActor: Deleted 1 Actors (0.344 secs)
+[2023.07.07-23.22.20:977][652]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.21:075][653]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.21:104][654]Cmd: DELETE
+[2023.07.07-23.22.21:104][654]Cmd: ACTOR DELETE
+[2023.07.07-23.22.22:721][654]LogSlate: Window 'Message' being destroyed
+[2023.07.07-23.22.22:728][654]Message dialog closed, result: Cancel, title: Message, text: Actor Landscape is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+(Soft) Object /Temp/Autosaves/Game/World/MainWorld_Auto2.MainWorld_Auto2:PersistentLevel.PCGVolume_0.PCG Component
+(Soft) Object /Temp/Autosaves/Game/World/MainWorld_Auto3.MainWorld_Auto3:PersistentLevel.PCGVolume_0.PCG Component
+(Soft) Object /Temp/Autosaves/Game/World/MainWorld_Auto4.MainWorld_Auto4:PersistentLevel.PCGVolume_0.PCG Component
+(Soft) Object /Temp/Autosaves/Game/World/MainWorld_Auto5.MainWorld_Auto5:PersistentLevel.PCGVolume_0.PCG Component
+(Soft) Object /Temp/Autosaves/Game/World/MainWorld_Auto6.MainWorld_Auto6:PersistentLevel.PCGVolume_0.PCG Component
+(Soft) Object /Game/World/MainWorld.MainWorld:PersistentLevel.Town_Spline_C_1.Town
+(Soft) Object /Game/World/MainWorld.MainWorld:PersistentLevel.PCGVolume_0.PCG Component
+[2023.07.07-23.22.22:755][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.07.07-23.22.22:758][654]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2023.07.07-23.22.28:226][920]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_18_A.SM_Hous_18_A
+[2023.07.07-23.22.28:226][920]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_18_A.SM_Hous_18_A
+[2023.07.07-23.22.28:227][920]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_18_A.SM_Hous_18_A as actor: StaticMeshActor /Game/World/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_9
+[2023.07.07-23.22.28:820][920]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.36:316][299]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_18_B.SM_Hous_18_B
+[2023.07.07-23.22.36:410][299]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.07-23.22.36:410][299]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-23.22.36:669][299]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.07.07-23.22.37:282][299]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.07.07-23.22.39:306][410]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-23.22.39:306][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-23.22.39:331][410]LogViewport: Scene viewport resized to 1141x695, mode Windowed.
+[2023.07.07-23.22.39:376][411]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2023.07.07-23.22.40:811][473]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_18_A.SM_Hous_18_A
+[2023.07.07-23.22.40:812][473]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_18_A.SM_Hous_18_A
+[2023.07.07-23.22.40:812][473]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_18_A.SM_Hous_18_A as actor: StaticMeshActor /Game/World/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_10
+[2023.07.07-23.22.40:860][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.46:854][747]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_16_B.SM_Hous_16_B
+[2023.07.07-23.22.46:854][747]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_16_B.SM_Hous_16_B
+[2023.07.07-23.22.46:854][747]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_16_B.SM_Hous_16_B as actor: StaticMeshActor /Game/World/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_11
+[2023.07.07-23.22.46:869][747]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.49:914][886]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_16_B.SM_Hous_16_B
+[2023.07.07-23.22.49:914][886]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_16_B.SM_Hous_16_B
+[2023.07.07-23.22.49:914][886]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_16_B.SM_Hous_16_B as actor: StaticMeshActor /Game/World/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_12
+[2023.07.07-23.22.49:925][886]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.22.57:504][248]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_15_A.SM_Hous_15_A
+[2023.07.07-23.22.57:504][248]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_15_A.SM_Hous_15_A
+[2023.07.07-23.22.57:504][248]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_15_A.SM_Hous_15_A as actor: StaticMeshActor /Game/World/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_13
+[2023.07.07-23.22.57:514][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.23.02:154][464]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_15_B.SM_Hous_15_B
+[2023.07.07-23.23.02:154][464]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_15_B.SM_Hous_15_B
+[2023.07.07-23.23.02:155][464]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_15_B.SM_Hous_15_B as actor: StaticMeshActor /Game/World/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_14
+[2023.07.07-23.23.02:227][464]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.23.07:302][699]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_16_B.SM_Hous_16_B
+[2023.07.07-23.23.07:302][699]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_16_B.SM_Hous_16_B
+[2023.07.07-23.23.07:303][699]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Polygon_FantasyVillage/Models/SM_Hous_16_B.SM_Hous_16_B as actor: StaticMeshActor /Game/World/MainWorld.MainWorld:PersistentLevel.StaticMeshActor_15
+[2023.07.07-23.23.07:312][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.07-23.23.40:788][ 58]LogEditorViewport: Clicking Background
+[2023.07.07-23.24.03:047][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.07.07-23.24.03:056][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-23.24.03:103][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/MainWorld" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/MainWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.07-23.24.03:128][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.07.07-23.24.03:269][274]LogSavePackage: Moving output files for package: /Game/World/MainWorld
+[2023.07.07-23.24.03:270][274]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MainWorld5A2E1D504992C3764840EA9AA39EF5FE.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/MainWorld.umap'
+[2023.07.07-23.24.03:278][274]LogFileHelpers: Saving map 'MainWorld' took 0.176
+[2023.07.07-23.24.03:278][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/World" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/World.uasset" SILENT=true
+[2023.07.07-23.24.03:297][274]LogSavePackage: Moving output files for package: /Game/World/World
+[2023.07.07-23.24.03:298][274]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/World9422F33740932144F1D375A80E861A0F.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/World.uasset'
+[2023.07.07-23.24.03:299][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/Town" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/Town.uasset" SILENT=true
+[2023.07.07-23.24.03:314][274]LogSavePackage: Moving output files for package: /Game/World/Town
+[2023.07.07-23.24.03:314][274]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Town00E4572F48253B3C17A937B665451D02.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/Town.uasset'
+[2023.07.07-23.24.03:317][274]LogSavePackage: Moving output files for package: /Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial
+[2023.07.07-23.24.03:317][274]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MI_MainMaterial5E53DFE144E6774305BB2497BBFDB893.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial.uasset'
+[2023.07.07-23.24.03:320][274]LogSavePackage: Moving output files for package: /Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial
+[2023.07.07-23.24.03:321][274]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/M_MainMaterialA08F283E46B4223431D3309F93BB5261.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial.uasset'
+[2023.07.07-23.24.03:324][274]LogSavePackage: Moving output files for package: /Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial
+[2023.07.07-23.24.03:325][274]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MI_MainMaterial607B8A894D03B510669DA79992C42352.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial.uasset'
+[2023.07.07-23.24.03:328][274]LogSavePackage: Moving output files for package: /Game/Assets/Polygon-ForestVillage/Materials/M_Polygon
+[2023.07.07-23.24.03:328][274]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/M_PolygonF5EF1D0D4DC709C2A8FE328A63BF03EC.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/Assets/Polygon-ForestVillage/Materials/M_Polygon.uasset'
+[2023.07.07-23.24.03:330][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/Town_Spline" FILE="C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/Town_Spline.uasset" SILENT=true
+[2023.07.07-23.24.03:335][274]LogSavePackage: Moving output files for package: /Game/World/Town_Spline
+[2023.07.07-23.24.03:335][274]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/Town_Spline8BC164F04F875358F9E31281904DD5DF.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/World/Town_Spline.uasset'
+[2023.07.07-23.24.03:338][274]LogSavePackage: Moving output files for package: /Game/Assets/Polygon-ForestVillage/Materials/MI_Emission_03
+[2023.07.07-23.24.03:338][274]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MI_Emission_038DF0F37A4F988C76DDA07FBDB622F9E7.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/Assets/Polygon-ForestVillage/Materials/MI_Emission_03.uasset'
+[2023.07.07-23.24.03:341][274]LogSavePackage: Moving output files for package: /Game/Assets/Polygon-ForestVillage/Materials/M_Emission
+[2023.07.07-23.24.03:342][274]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/M_Emission37FBC1534F34F3A2D93627AE75FF6F87.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/Assets/Polygon-ForestVillage/Materials/M_Emission.uasset'
+[2023.07.07-23.24.03:345][274]LogSavePackage: Moving output files for package: /Game/Assets/Polygon_FantasyVillage/Materials/MI_Emission_Blue
+[2023.07.07-23.24.03:346][274]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/MI_Emission_Blue420632514FB03EA4DB42D5999233D4E9.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/Assets/Polygon_FantasyVillage/Materials/MI_Emission_Blue.uasset'
+[2023.07.07-23.24.03:348][274]LogSavePackage: Moving output files for package: /Game/Assets/Polygon_FantasyVillage/Materials/M_Emission
+[2023.07.07-23.24.03:349][274]LogSavePackage: Moving 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Saved/M_EmissionD2DACAF146915AC837EAE2A3F8307DCE.tmp' to 'C:/Users/Xecense/Documents/GitHub/CityDestructor/Content/Assets/Polygon_FantasyVillage/Materials/M_Emission.uasset'
+[2023.07.07-23.24.03:362][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 305 ms (total: 1.26 sec)
+[2023.07.07-23.24.03:377][274]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-23.24.03:377][274]LogContentValidation: Display: Validating /Script/Engine.World /Game/World/MainWorld.MainWorld
+[2023.07.07-23.24.03:377][274]LogContentValidation: Display: Validating /Script/PCG.PCGGraph /Game/World/Town.Town
+[2023.07.07-23.24.03:377][274]LogContentValidation: Display: Validating /Script/PCG.PCGGraph /Game/World/World.World
+[2023.07.07-23.24.03:377][274]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/World/Town_Spline.Town_Spline
+[2023.07.07-23.24.03:377][274]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Polygon_FantasyVillage/Materials/M_MainMaterial.M_MainMaterial
+[2023.07.07-23.24.03:377][274]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Polygon_FantasyVillage/Materials/MI_MainMaterial.MI_MainMaterial
+[2023.07.07-23.24.03:377][274]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Polygon-ForestVillage/Materials/M_Polygon.M_Polygon
+[2023.07.07-23.24.03:377][274]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Polygon-ForestVillage/Materials/MI_MainMaterial.MI_MainMaterial
+[2023.07.07-23.24.03:377][274]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Polygon_FantasyVillage/Materials/MI_Emission_Blue.MI_Emission_Blue
+[2023.07.07-23.24.03:377][274]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Polygon_FantasyVillage/Materials/M_Emission.M_Emission
+[2023.07.07-23.24.03:377][274]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Polygon-ForestVillage/Materials/MI_Emission_03.MI_Emission_03
+[2023.07.07-23.24.03:377][274]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Polygon-ForestVillage/Materials/M_Emission.M_Emission
